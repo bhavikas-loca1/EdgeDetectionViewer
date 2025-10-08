@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/my lapi/Desktop/EdgeDetectionViewer/app/.cxx/Debug/542fp5p6/x86",
+  "command": "C:\\Users\\MYLAPI~1\\AppData\\Local\\Android\\Sdk\\ndk\\261~1.109\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\CLANG_~1.EXE --target=i686-none-linux-android24 --sysroot=\"C:/Users/my lapi/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot\" -Dedgedetectionviewer_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -fno-limit-debug-info  -fPIC -o CMakeFiles\\edgedetectionviewer.dir\\native-lib.cpp.o -c \"C:\\Users\\my lapi\\Desktop\\EdgeDetectionViewer\\app\\src\\main\\cpp\\native-lib.cpp\"",
+  "file": "C:\\Users\\my lapi\\Desktop\\EdgeDetectionViewer\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

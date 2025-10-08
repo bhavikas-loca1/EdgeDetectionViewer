@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\my lapi\\Desktop\\EdgeDetectionViewer\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\my lapi\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\my lapi\\Desktop\\EdgeDetectionViewer\\app\\.cxx\\RelWithDebInfo\\1c2v3215\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\my lapi\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\my lapi\\Desktop\\EdgeDetectionViewer\\app\\.cxx\\RelWithDebInfo\\1c2v3215\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "edgedetectionviewer::@6890427a1f51a3e7e1df": {
+      "artifactName": "edgedetectionviewer",
+      "abi": "x86",
+      "output": "C:\\Users\\my lapi\\Desktop\\EdgeDetectionViewer\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\1c2v3215\\obj\\x86\\libedgedetectionviewer.so",
+      "runtimeFiles": []
+    }
+  }
+}

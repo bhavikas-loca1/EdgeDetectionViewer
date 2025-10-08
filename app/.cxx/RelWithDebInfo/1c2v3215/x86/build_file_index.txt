@@ -1,0 +1,1 @@
+C:\Users\my lapi\Desktop\EdgeDetectionViewer\app\src\main\cpp\CMakeLists.txt
